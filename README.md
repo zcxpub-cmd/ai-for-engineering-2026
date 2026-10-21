@@ -4,7 +4,7 @@
 
 [English summary](README_EN.md)
 
-![第三届 AI FOR ENGINEERING 人工智能工程应用大会会议通知](assets/conference-cover.jpg)
+![第三届 AI FOR ENGINEERING 人工智能工程应用大会完整会议通知](assets/conference-announcement-complete.webp)
 
 > 本仓库用于公益整理和传播公开会议信息，不代替主办方正式通知。会议注册、缴费、议程调整及参会要求请以[科学网微信原文](https://mp.weixin.qq.com/s/cQ_NviW17m5fQVIpJfH-IQ)和主办方后续通知为准。
 
@@ -30,8 +30,6 @@ AI FOR ENGINEERING 人工智能工程应用大会自 2024 年创办以来已举�
 
 本届大会与京津冀国家技术创新中心前沿技术大讲堂联办，旨在促进前沿科技与工程应用对接，推动跨学科交流与创新合作。
 
-![大会背景、时间和地点](assets/meeting-overview.jpg)
-
 ## 专题方向
 
 1. AI 大模型
@@ -52,8 +50,6 @@ AI FOR ENGINEERING 人工智能工程应用大会自 2024 年创办以来已举�
 | 11 月 14 日 | 下午 | 分组特邀报告 |
 | 11 月 15 日 | 上午 | 大会报告 |
 | 11 月 15 日 | 下午 | 分组特邀报告、闭幕式 |
-
-![会议日程与专题设置](assets/agenda-topics.jpg)
 
 ## 组织单位
 

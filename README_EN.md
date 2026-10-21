@@ -4,7 +4,7 @@
 
 [中文信息](README.md)
 
-![Conference announcement](assets/conference-cover.jpg)
+![Complete conference announcement](assets/conference-announcement-complete.webp)
 
 > This is an unofficial English summary prepared to help international engineering and open-source communities discover the event. Registration, payment, schedule changes, and participation requirements are governed by the [official Chinese WeChat announcement](https://mp.weixin.qq.com/s/cQ_NviW17m5fQVIpJfH-IQ).
 
