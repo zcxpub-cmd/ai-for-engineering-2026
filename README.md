@@ -4,7 +4,7 @@
 
 [English summary](README_EN.md)
 
-![第三届 AI FOR ENGINEERING 人工智能工程应用大会完整会议通知](assets/conference-announcement-complete.webp)
+![第三届 AI FOR ENGINEERING 人工智能工程应用大会完整会议通知](assets/conference-announcement-complete.jpg)
 
 > 本仓库用于公益整理和传播公开会议信息，不代替主办方正式通知。会议注册、缴费、议程调整及参会要求请以[科学网微信原文](https://mp.weixin.qq.com/s/cQ_NviW17m5fQVIpJfH-IQ)和主办方后续通知为准。
 
@@ -102,7 +102,7 @@ AI FOR ENGINEERING 人工智能工程应用大会自 2024 年创办以来已举�
 - `hlliu@eitech.edu.cn`
 - `yinyinli@eitech.edu.cn`
 
-**请在提交个人信息或付款前，通过[微信原文](https://mp.weixin.qq.com/s/cQ_NviW17m5fQVIpJfH-IQ)再次核对主办单位、付款主体、最新议程和通知。为降低误付风险，本仓库不转载付款二维码或银行账户。**
+**页面顶部完整长图按公开会议通知整理，其中包含原通知公开的付款二维码、银行账户和联系方式，仅用于还原通知内容。请勿仅凭仓库截图付款；提交个人信息或付款前，必须通过[微信原文](https://mp.weixin.qq.com/s/cQ_NviW17m5fQVIpJfH-IQ)再次核对主办单位、付款主体、账户信息、最新议程和通知。**
 
 ## 信息来源与使用说明
 
@@ -111,5 +111,4 @@ AI FOR ENGINEERING 人工智能工程应用大会自 2024 年创办以来已举�
 - 原文发布时间：2026 年 10 月 21 日 20:06（北京）
 - 原文链接：https://mp.weixin.qq.com/s/cQ_NviW17m5fQVIpJfH-IQ
 - 本仓库的英文内容为便于检索而制作的非官方摘要；如有差异，以中文正式通知为准。
-- 页面截图来自公开会议推文，仅用于会议资讯说明和链接预览；相关文字、图片和标识的权利归原发布者及相关权利人所有。
-
+- 完整长图来自公开会议推文及其 PDF 内嵌通知图片，仅用于会议资讯说明和原通知核验；相关文字、图片和标识的权利归原发布者及相关权利人所有。
