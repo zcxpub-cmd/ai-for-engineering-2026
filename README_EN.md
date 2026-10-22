@@ -4,7 +4,7 @@
 
 [中文信息](README.md)
 
-![Complete conference announcement](assets/conference-announcement-complete.webp)
+![Complete conference announcement](assets/conference-announcement-complete.jpg)
 
 > This is an unofficial English summary prepared to help international engineering and open-source communities discover the event. Registration, payment, schedule changes, and participation requirements are governed by the [official Chinese WeChat announcement](https://mp.weixin.qq.com/s/cQ_NviW17m5fQVIpJfH-IQ).
 
@@ -75,12 +75,11 @@ Submit the attendance response by **October 31, 2026** through the [AI4E attenda
 | Student delegate | CNY 2,000 |
 | Other delegate | CNY 3,000 |
 
-Travel and accommodation are not included. The Chinese notice lists QR payment, bank transfer, and on-site payment. This repository intentionally does not reproduce payment QR codes or bank details. Confirm the organizer, payment recipient, and latest notice through the [official WeChat announcement](https://mp.weixin.qq.com/s/cQ_NviW17m5fQVIpJfH-IQ) before submitting personal information or making a payment.
+Travel and accommodation are not included. The complete Chinese announcement image above preserves the payment QR code, bank details, and contact information published in the original notice solely to reproduce that notice accurately. Do not make a payment based only on this repository image. Confirm the organizer, payment recipient, account details, and latest notice through the [official WeChat announcement](https://mp.weixin.qq.com/s/cQ_NviW17m5fQVIpJfH-IQ) before submitting personal information or making a payment.
 
 ## Source note
 
 - Publisher: ScienceNet WeChat account
 - Published: October 21, 2026, 20:06 Beijing time
 - The English event title and summary on this page are unofficial translations.
-- The screenshots are included only to identify and explain the publicly announced event. Copyright remains with the original publisher and respective rights holders.
-
+- The complete image is assembled from the public event post and its PDF-embedded announcement artwork solely for event information and source verification. Copyright remains with the original publisher and respective rights holders.
